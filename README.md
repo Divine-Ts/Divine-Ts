@@ -29,14 +29,6 @@
 <p>✍️&nbsp;&nbsp;Hello I'm DivineTs!</p>
 <p>&emsp;&emsp;Run you clever boy, and remember</p>
 
-<!-- 比较好的开源项目卡片 -->
-<div align="center">
-<a href="https://github.com/DivineTs/Awesome-Love-Code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivineTs&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/DivineTs/Student-Data-Vision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivineTs&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div>
-
 💪 正在学习: 
 
 &emsp;&emsp;
