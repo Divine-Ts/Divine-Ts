@@ -4,6 +4,8 @@
     <img src="https://metrics.lecoq.io/Divine-Ts?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai">
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivineTs)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Divine-Ts/Divine-Ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
