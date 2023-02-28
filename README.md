@@ -13,10 +13,6 @@
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=DivineTs" alt="访客统计" /></div>
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
-
-
 #  🙋 Hello
 
 <p>✍️&nbsp;&nbsp;Hello I'm DivineTs!</p>
@@ -63,27 +59,6 @@
 
 <!-- profile-3d-contrib -->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
-
-# 🚀 Actions
-
-<!-- 连续提交代码天数记录 -->
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DivineTs&theme=dark&hide_border=true" />
-</div>
-<br>
-
-<!-- metrics 基础资料 -->
-<div align="center">
-    <img src="https://metrics.lecoq.io/Divine-Ts?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai">
-</div>
-<br>
-
-<!-- Dynamic Quotes -->
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
-
-<!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=DivineTs&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
-<br>
 
 <!-- GitHub数据统计 -->
 <div align="center">
